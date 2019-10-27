@@ -28,4 +28,9 @@ Sample request:
 
 `/quotes?pickup=10,10&dropoff=20,20&passengers=6`
 
+## Notes
+
+Usually I'd write some unit tests with a mocking library such as Mockito and add some integration tests polling APIs, but I've ran out of time to do this unfortunately.
+If you'd like to see details on how I'd do it, I've written a blog post about Spring testing on my website.
+
 
